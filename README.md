@@ -15,7 +15,3 @@ This project is an **Online Electricity Billing System** built using **Java, JSP
 - MySQL Database
 - HTML, CSS, JavaScript for Frontend
 
-## Setup Instructions:
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/Online-Electricity-Billing-System.git
